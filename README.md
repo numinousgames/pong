@@ -1,4 +1,4 @@
-# Numinous Engine #
+# Pong #
 
 [![Build Status][Travis Badge]][Travis Link]
 
@@ -105,5 +105,5 @@ the VC++ tool chain.
 
 
 [Standards]: http://bit.ly/1J4g51q
-[Travis Badge]: https://travis-ci.org/numinousgames/engine.svg?branch=develop
-[Travis Link]: https://travis-ci.org/numinousgames/engine
+[Travis Badge]: https://travis-ci.org/numinousgames/pong.svg?branch=main
+[Travis Link]: https://travis-ci.org/numinousgames/pong
