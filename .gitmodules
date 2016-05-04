@@ -1,0 +1,3 @@
+[submodule "ext/numinous-engine"]
+	path = ext/numinous-engine
+	url = https://github.com/numinousgames/engine
